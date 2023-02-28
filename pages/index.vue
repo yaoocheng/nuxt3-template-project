@@ -1,6 +1,6 @@
 <template>
     <NuxtLayout name="default">
-
+        <HelloComp />
         <div class="mid">
             <img style="width: 100px;margin-bottom: 20px;" src="~@/assets/img/logo.png" alt="">
             <h1>欢迎使用<a class="ye-cli" target="_blank" href="https://github.com/yc-cooding/ye-cli">ye-cli</a>搭建项目</h1>
